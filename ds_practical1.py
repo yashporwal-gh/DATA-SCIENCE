@@ -51,3 +51,5 @@ df = pd.DataFrame(data=data)
 print(df.head())
 
 df.to_csv('projects.csv', index=False, encoding='utf-8')
+
+#hactober-accepted
